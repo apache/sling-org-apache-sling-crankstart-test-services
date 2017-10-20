@@ -16,8 +16,8 @@
     <description>Bundle used to test the Crankstart launcher</description>
 
     <scm>
-      <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/crankstart/test-services</connection>
-      <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/crankstart/test-services</developerConnection>
+      <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-crankstart-test-services.git</conncetion>
+      <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-crankstart-test-services.git</developerConnection>
       <url>http://sling.apache.org</url>
     </scm>
 
